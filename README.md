@@ -1,2 +1,2 @@
 # ovs-deployment
-some algorithm for ovs deployment
+some algorithms for ovs deployment
